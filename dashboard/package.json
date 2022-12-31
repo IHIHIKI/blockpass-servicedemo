@@ -11,7 +11,7 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.1",
+    "react-scripts": "5.0.1",
     "superagent": "3.8.2"
   },
   "scripts": {
@@ -25,7 +25,7 @@
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "node-sass": "^4.9.0",
     "react-app-rewired": "^1.5.2",
-    "sass-loader": "^7.0.1"
+    "sass-loader": "^13.2.0"
   },
   "homepage": "http://localhost:3000/dashboard",
   "proxy": "http://localhost:3000"
